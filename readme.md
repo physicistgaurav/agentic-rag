@@ -47,11 +47,17 @@ source .venv/bin/activate  # Linux / Mac
 
 3. Install dependencies:
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 4. Add your Gemini API key in .env:
 
-```echo "GOOGLE_API_KEY=your_api_key_here" > .env```
+```
+echo "GOOGLE_API_KEY=your_api_key_here" > .env
+```
 
 5. Run the Streamlit app
-```streamlit run doc_agent.py```
+```
+streamlit run doc_agent.py
+```
