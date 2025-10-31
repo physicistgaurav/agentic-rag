@@ -61,3 +61,8 @@ echo "GOOGLE_API_KEY=your_api_key_here" > .env
 ```
 streamlit run doc_agent.py
 ```
+
+
+## 🎬 Demo Video
+
+![Resume RAG Demo](assets/demo.gif)
