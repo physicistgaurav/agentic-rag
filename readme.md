@@ -66,3 +66,5 @@ streamlit run doc_agent.py
 ## 🎬 Demo Video
 
 ![Resume RAG Demo](assets/demo.gif)
+
+[Watch the demo video](assets/demo.mp4)
