@@ -1,0 +1,225 @@
+{
+  "question": "Breifly explain candidate profile, mention his roles, jobs and projects without describing much",
+  "timestamp": "2025-12-06 11:57:54",
+  "results": {
+    "B_small_600": {
+      "index_info": {
+        "type": "faiss",
+        "n_chunks": 8,
+        "embed_time": 3.3306641578674316,
+        "chunk_config": "600 chars, 100 overlap"
+      },
+      "answer": "Based on the resume, here's Gaurav Rizal's profile:\n\n**Profile:** Full-stack developer and aspiring AI researcher with experience in Machine Learning, Computer Vision, LLMs, and NLP.\n\n**Current Role:**\n- Full-Stack Developer at WebNep (Sept 2025\u2013Present) - developing grocery management system\n\n**Previous Roles:**\n- Teacher at Pashupati Awasiya Ma. Vi (Feb 2025\u2013Aug 2025) - taught Computer Science and Mathematics to grades 9-12\n- Software Developer at Ramailo Tech (Sept 2023\u2013Jan 2025) - built LLM applications, virtual assistant, and OCR pipeline using AWS Textract\n\n**Education:**\n- Bachelor of Engineering in Computer Engineering from Kathmandu University (2018-2023), CGPA: 3.57/4.0\n\n**Key Projects:**\n- ResumeRAG: AI-powered resume analysis assistant using Gemini 2.0 Flash + LlamaIndex\n- Multilabel Image Classification using MobileNetV2 (achieved 95% accuracy, deployed as Flutter mobile app)\n\n**Leadership:**\n- Acting IT Head at Leo Club of Kathmandu Himalayas Patan (2024-2025)\n- Dart Community Coordinator at Kathmandu University Computer Club (2021-2022)\n\n*Source: Gaurav_Rizal_resume.pdf*",
+      "hits": [
+        {
+          "score": 0.26013070344924927,
+          "meta": {
+            "file": "Gaurav_Rizal_resume.pdf",
+            "text": "ndadminplatforms,including\ninventory,sales,payments,andcreditmanagement,tailoredforawholesaleclient. Teacher,PashupatiAwasiyaMa. Vi\u2013Urlabari,Morang Feb2025\u2013Aug2025\n\u2022 TaughtComputerScienceandMathematicstostudentsofgrades9\u201312,fosteringanalyticalandproblem-solving\nskills. \u2022 Designedengaginglessonplans,practicalassignments,andassessmentsalignedwiththenationalcurriculum. SoftwareDeveloper,RamailoTech\u2013Gwarko,Kathmandu Sept2023\u2013Jan2025\n\u2022 BuiltLLMandspeech-drivenapplicationsincludingavirtualassistantandanaward-winningCityDiscussion\nDashboardusingGPT-4o-miniandPhi-3Mini\n\u2022 EngineeredanOCRpipelineusingAWSTextract,enablingautomatedextractionofvehicledocumentfieldsand\nimprovingdataprocessingaccuracy."
+          }
+        },
+        {
+          "score": 0.25935542583465576,
+          "meta": {
+            "file": "Gaurav_Rizal_resume.pdf",
+            "text": "uERP\u2019s3majormodules(E-learning,ExpenseTracker,Ticketing)\nincludingUIimplementationandAPIintegration. Skills\nAI&MachineLearning: PyTorch,TensorFlow,OpenCV,LlamaIndex,HuggingFace,OpenAIAPIs,Scikit-learn,\nNumpy,Pandas,Seaborn,NLTK,Spacy\nProgramming: Python,JavaScript,TypeScript,Node.js,React.js,Next.js,Django\nCloud&Devops: AWS,Cloudfare,Firebase,Docker,CI/CD\nMiscellaneous: Redis,SQL,RESTAPIs,Monorepo,AgileDevelopment,TDD\nSoftSkills: Adaptability,Communication,AnalyticalThinking,Cross-CulturalCollaboration\nLanguages: English(Fluent),Nepali(Native),Hindi(Fluent)\nProjects\nResumeRAG github.com/Agentic-rag\n\u2022 AI-poweredresumeanalysisassistantusingGemini2.0Flash+LlamaIndexwithmulti-stepreasoningforskill\nextraction,candidatecomparison,andsummarization."
+          }
+        },
+        {
+          "score": 0.24156993627548218,
+          "meta": {
+            "file": "Gaurav_Rizal_resume.pdf",
+            "text": "Gaurav Rizal\nUrlabari,Nepal | gauravrijal03@gmail.com | (+977)9825339449 | gauravrizal.com.np\nlinkedin.com/in/gaurav-rizal | github.com/physicistgaurav\nProfile\nFull-stackdeveloperandaspiringAIresearcherwithhands-onexperienceinMachineLearning,ComputerVision,\nLLMs,andNLP.SkilledinPython,TensorFlow,PyTorch,OpenCV,andmodernwebframeworkssuchasReact. ExperiencedinbuildingscalableapplicationsandintegratingMLsolutionsintoproductionsystems. Motivatedto\npursuegraduateresearchinmachinelearning,computervision,naturallanguageprocessing,andmultimodal\nsystems."
+          }
+        },
+        {
+          "score": 0.22079837322235107,
+          "meta": {
+            "file": "Gaurav_Rizal_resume.pdf",
+            "text": "managingend-to-endprocessfrom\nclientrequirementsgatheringtohosting,whileproposingoptimizedsolutions. \u2022 ToolsUsed: ReactJS,Tailwind,Firebase,Vercel\nLeadership Community Involvement\nLeoClubofKathmanduHimalayasPatan 2024-2025\nActingITHead\nlckhp.org/\nKathmanduUniversityComputerClub 2021-2022\nDartCommunityCoordinator\nkucc.ku.edu.np/"
+          }
+        },
+        {
+          "score": 0.19911110401153564,
+          "meta": {
+            "file": "Gaurav_Rizal_resume.pdf",
+            "text": "suegraduateresearchinmachinelearning,computervision,naturallanguageprocessing,andmultimodal\nsystems. Education\nKathmanduUniversity,BachelorofEngineering: ComputerEngineering Aug2018\u2013May2023\n\u2022 CGPA:3.57/4.0\n\u2022 Coursework: MachineLearning,ArtificialIntelligence,StatisticsandProbability,DataStructures&Algorithms,\nDigitalSignalProcessing,SoftwareEngineering,AdvancedCalculus,LinearAlgebra,C,C++\nResearch Experience\nMultilabelClassificationofImagesusingMobileNetV2 Feb2022\u2013May2022\nActiveLearningLab,KathmanduUniversity\ngithub.com/physicistgaurav/Fruitstagging\n\u2022 ImplementedMobileNetV2withpre-trainedImageNetweights,achieving95%accuracyonthetestdataset\n\u2022 ConvertedthemodeltoTensorFlowLite(TFLite)fordeploymentinaFluttermobileapp,enablingobject\nrecognitionviacamera,photo,orURL\n\u2022 IntegratedwithFirestoretoprovidedetailed,real-timeinformationondetectedobjects\nProfessional Experience\nFull-StackDeveloper,WebNep\u2013Urlabari,Morang Sept2025\u2013Present\n\u2022 Currentlydevelopingafull-stackgrocerymanagementsystemwithcustomerandadminplatforms,including\ninventory,sales,payments,andcreditmanagement,tailoredforawholesaleclient."
+          }
+        }
+      ],
+      "search_time": 0.00012803077697753906,
+      "gen_time": 7.405904769897461
+    },
+    "A_tiny_300": {
+      "index_info": {
+        "type": "faiss",
+        "n_chunks": 14,
+        "embed_time": 4.777401685714722,
+        "chunk_config": "300 chars, 50 overlap"
+      },
+      "answer": "Based on the resume, here's Gaurav Rizal's profile:\n\n**Profile:** Full-stack developer and aspiring AI researcher with experience in Machine Learning, Computer Vision, LLMs, and NLP.\n\n**Current/Recent Roles:**\n- Acting IT Head at Leo Club of Kathmandu Himalayas Patan (2024-2025)\n- Teacher at Pashupati Awasiya Ma. Vi, teaching Computer Science and Mathematics to grades 9-12 (Feb 2025-Aug 2025)\n\n**Previous Role:**\n- Dart Community Coordinator at Kathmandu University Computer Club (2021-2022)\n\n**Key Projects:**\n- **ResumeRAG**: AI-powered resume analysis assistant using Gemini 2.0 Flash + LlamaIndex for skill extraction and candidate comparison\n- **City Discussion Dashboard**: Full-stack Django+React application tracking city-specific news and Reddit discussions with automated sentiment analysis\n\n**Technical Skills:** Python, JavaScript, React.js, Django, PyTorch, TensorFlow, OpenCV, AWS, Firebase, and various AI/ML tools.\n\n*Source: Gaurav_Rizal_resume.pdf*",
+      "hits": [
+        {
+          "score": 0.28890809416770935,
+          "meta": {
+            "file": "Gaurav_Rizal_resume.pdf",
+            "text": "Gaurav Rizal\nUrlabari,Nepal | gauravrijal03@gmail.com | (+977)9825339449 | gauravrizal.com.np\nlinkedin.com/in/gaurav-rizal | github.com/physicistgaurav\nProfile\nFull-stackdeveloperandaspiringAIresearcherwithhands-onexperienceinMachineLearning,ComputerVision,\nLLMs,andNLP.SkilledinPython,TensorFlow,PyTorch,OpenCV,andmodernwebframeworkssuchasReact."
+          }
+        },
+        {
+          "score": 0.27927839756011963,
+          "meta": {
+            "file": "Gaurav_Rizal_resume.pdf",
+            "text": "theringtohosting,whileproposingoptimizedsolutions. \u2022 ToolsUsed: ReactJS,Tailwind,Firebase,Vercel\nLeadership Community Involvement\nLeoClubofKathmanduHimalayasPatan 2024-2025\nActingITHead\nlckhp.org/\nKathmanduUniversityComputerClub 2021-2022\nDartCommunityCoordinator\nkucc.ku.edu.np/"
+          }
+        },
+        {
+          "score": 0.26597094535827637,
+          "meta": {
+            "file": "Gaurav_Rizal_resume.pdf",
+            "text": "s,andcreditmanagement,tailoredforawholesaleclient. Teacher,PashupatiAwasiyaMa. Vi\u2013Urlabari,Morang Feb2025\u2013Aug2025\n\u2022 TaughtComputerScienceandMathematicstostudentsofgrades9\u201312,fosteringanalyticalandproblem-solving\nskills. \u2022 Designedengaginglessonplans,practicalassignments,andassessmentsalignedwiththenationalcurriculum."
+          }
+        },
+        {
+          "score": 0.25575411319732666,
+          "meta": {
+            "file": "Gaurav_Rizal_resume.pdf",
+            "text": "eting)\nincludingUIimplementationandAPIintegration. Skills\nAI&MachineLearning: PyTorch,TensorFlow,OpenCV,LlamaIndex,HuggingFace,OpenAIAPIs,Scikit-learn,\nNumpy,Pandas,Seaborn,NLTK,Spacy\nProgramming: Python,JavaScript,TypeScript,Node.js,React.js,Next.js,Django\nCloud&Devops: AWS,Cloudfare,Firebase,Docker,CI/CD\nMiscellaneous: Redis,SQL,RESTAPIs,Monorepo,AgileDevelopment,TDD\nSoftSkills: Adaptability,Communication,AnalyticalThinking,Cross-CulturalCollaboration\nLanguages: English(Fluent),Nepali(Native),Hindi(Fluent)\nProjects\nResumeRAG github.com/Agentic-rag\n\u2022 AI-poweredresumeanalysisassistantusingGemini2.0Flash+LlamaIndexwithmulti-stepreasoningforskill\nextraction,candidatecomparison,andsummarization."
+          }
+        },
+        {
+          "score": 0.24308110773563385,
+          "meta": {
+            "file": "Gaurav_Rizal_resume.pdf",
+            "text": "l\nextraction,candidatecomparison,andsummarization. \u2022 Toolsused: LlamaIndex,Gemini,Streamlit\nCityDiscussionDashbaord github.com/city-discussion\n\u2022 Developedafull-stackDjango+Reactdashboardtotrackcity-specificnewsandRedditdiscussions. Integrated\nNewsAPI,PRAW,andOpenRouterforautomatedtopicextraction,sentimentanalysis,andsummarization."
+          }
+        }
+      ],
+      "search_time": 0.00010967254638671875,
+      "gen_time": 6.881723403930664
+    },
+    "C_medium_1200": {
+      "index_info": {
+        "type": "faiss",
+        "n_chunks": 5,
+        "embed_time": 2.425893783569336,
+        "chunk_config": "1200 chars, 200 overlap"
+      },
+      "answer": "Based on the resume, here's Gaurav Rizal's candidate profile:\n\n**Profile:** Full-stack developer and aspiring AI researcher with experience in Machine Learning, Computer Vision, LLMs, and NLP.\n\n**Education:** Bachelor of Engineering in Computer Engineering from Kathmandu University (2018-2023), CGPA: 3.57/4.0\n\n**Professional Roles:**\n- **Full-Stack Developer** at WebNep (Sept 2025-Present) - developing grocery management system\n- **Teacher** at Pashupati Awasiya Ma. Vi (Feb 2025-Aug 2025) - taught Computer Science and Mathematics to grades 9-12\n- **Software Developer** at RamailoTech (Sept 2023-Jan 2025) - built LLM applications, OCR pipeline, AI development\n- **React Native Developer** at E-Signature Pvt. Ltd. (July 2023-Oct 2023) - worked on bus ticketing mobile app\n- **Intern** at NepalCanCode (Apr 2023-Jul 2023) - developed React Native frontend for ERP modules\n\n**Key Projects:**\n- ResumeRAG - AI-powered resume analysis using Gemini 2.0 Flash\n- City Discussion Dashboard - full-stack Django+React news tracking system\n- Seq2Seq DE-EN Translator - German-English translation model\n- Latte-da POS System - hotel management system\n- Varenya Foundation website\n\n**Research Experience:** Multilabel Classification using MobileNetV2 at Kathmandu University's Active Learning Lab (95% accuracy)\n\nSource: Gaurav_Rizal_resume.pdf",
+      "hits": [
+        {
+          "score": 0.2642025053501129,
+          "meta": {
+            "file": "Gaurav_Rizal_resume.pdf",
+            "text": "gna\u2019. Intern,NepalCanCode\u2013Tinkune,Kathmandu Apr2023\u2013Jul2023\n\u2022 DevelopedReactNativefrontendforBayuPayuERP\u2019s3majormodules(E-learning,ExpenseTracker,Ticketing)\nincludingUIimplementationandAPIintegration. Skills\nAI&MachineLearning: PyTorch,TensorFlow,OpenCV,LlamaIndex,HuggingFace,OpenAIAPIs,Scikit-learn,\nNumpy,Pandas,Seaborn,NLTK,Spacy\nProgramming: Python,JavaScript,TypeScript,Node.js,React.js,Next.js,Django\nCloud&Devops: AWS,Cloudfare,Firebase,Docker,CI/CD\nMiscellaneous: Redis,SQL,RESTAPIs,Monorepo,AgileDevelopment,TDD\nSoftSkills: Adaptability,Communication,AnalyticalThinking,Cross-CulturalCollaboration\nLanguages: English(Fluent),Nepali(Native),Hindi(Fluent)\nProjects\nResumeRAG github.com/Agentic-rag\n\u2022 AI-poweredresumeanalysisassistantusingGemini2.0Flash+LlamaIndexwithmulti-stepreasoningforskill\nextraction,candidatecomparison,andsummarization. \u2022 Toolsused: LlamaIndex,Gemini,Streamlit\nCityDiscussionDashbaord github.com/city-discussion\n\u2022 Developedafull-stackDjango+Reactdashboardtotrackcity-specificnewsandRedditdiscussions. Integrated\nNewsAPI,PRAW,andOpenRouterforautomatedtopicextraction,sentimentanalysis,andsummarization. \u2022 Toolsused: Python,Django,React(Vite),NewsAPI,PRAW,OpenRouter(GPT-4o-mini,Phi-3Mini)\nSeq2SeqDE-ENTranslator github.com/de-en-seq2seq\n\u2022 German-EnglishtranslationmodelusingSeq2SeqarchitecturewithBahdanauattention."
+          }
+        },
+        {
+          "score": 0.24156993627548218,
+          "meta": {
+            "file": "Gaurav_Rizal_resume.pdf",
+            "text": "Gaurav Rizal\nUrlabari,Nepal | gauravrijal03@gmail.com | (+977)9825339449 | gauravrizal.com.np\nlinkedin.com/in/gaurav-rizal | github.com/physicistgaurav\nProfile\nFull-stackdeveloperandaspiringAIresearcherwithhands-onexperienceinMachineLearning,ComputerVision,\nLLMs,andNLP.SkilledinPython,TensorFlow,PyTorch,OpenCV,andmodernwebframeworkssuchasReact. ExperiencedinbuildingscalableapplicationsandintegratingMLsolutionsintoproductionsystems. Motivatedto\npursuegraduateresearchinmachinelearning,computervision,naturallanguageprocessing,andmultimodal\nsystems."
+          }
+        },
+        {
+          "score": 0.22794222831726074,
+          "meta": {
+            "file": "Gaurav_Rizal_resume.pdf",
+            "text": "nt,tailoredforawholesaleclient. Teacher,PashupatiAwasiyaMa. Vi\u2013Urlabari,Morang Feb2025\u2013Aug2025\n\u2022 TaughtComputerScienceandMathematicstostudentsofgrades9\u201312,fosteringanalyticalandproblem-solving\nskills. \u2022 Designedengaginglessonplans,practicalassignments,andassessmentsalignedwiththenationalcurriculum. SoftwareDeveloper,RamailoTech\u2013Gwarko,Kathmandu Sept2023\u2013Jan2025\n\u2022 BuiltLLMandspeech-drivenapplicationsincludingavirtualassistantandanaward-winningCityDiscussion\nDashboardusingGPT-4o-miniandPhi-3Mini\n\u2022 EngineeredanOCRpipelineusingAWSTextract,enablingautomatedextractionofvehicledocumentfieldsand\nimprovingdataprocessingaccuracy. \u2022 LedAIdevelopmentfortheCo-HireappusingCVsummarizationandLinkedInvacancymatching. ReactNativeDeveloper,E-SignaturePvt. Ltd. \u2013Kalopul,Kathmandu July2023-Oct. 2023\n\u2022 ContributedtoMengedegna,abusticketingmobileapplicationfeaturingmulti-ticketbooking,securepayment\nintegration,andvouchercodefunctionality\n\u2022 ResponsibleforcompletereleasecyclefrominternaltestingtoGooglePlayStoredeploymentof\u2019Mengedegna\u2019. Intern,NepalCanCode\u2013Tinkune,Kathmandu Apr2023\u2013Jul2023\n\u2022 DevelopedReactNativefrontendforBayuPayuERP\u2019s3majormodules(E-learning,ExpenseTracker,Ticketing)\nincludingUIimplementationandAPIintegration."
+          }
+        },
+        {
+          "score": 0.17503520846366882,
+          "meta": {
+            "file": "Gaurav_Rizal_resume.pdf",
+            "text": " Python,Django,React(Vite),NewsAPI,PRAW,OpenRouter(GPT-4o-mini,Phi-3Mini)\nSeq2SeqDE-ENTranslator github.com/de-en-seq2seq\n\u2022 German-EnglishtranslationmodelusingSeq2SeqarchitecturewithBahdanauattention. BuiltwithPyTorch,\nachievingmeaningfultranslationsonMulti30kdataset. \u2022 ToolsUsed: PyTorch,spaCy,Multi30kdataset\nLatte-daPOSSystem video-url\n\u2022 DevelopedhotelPOSsystemwithweb(React)+mobile(ReactNative)frontendfortablereservations,orders,\nthermalprinting,sales,andcreditmanagement. \u2022 Toolsused: React,ReactNative,Node.js,Express,Prisma,TypeScript\nVarenyaFoundation varenyafoundation.org.np/\n\u2022 DevelopedanddeployedVarenyaFoundation\u2019scompleteportfoliowebsite,managingend-to-endprocessfrom\nclientrequirementsgatheringtohosting,whileproposingoptimizedsolutions. \u2022 ToolsUsed: ReactJS,Tailwind,Firebase,Vercel\nLeadership Community Involvement\nLeoClubofKathmanduHimalayasPatan 2024-2025\nActingITHead\nlckhp.org/\nKathmanduUniversityComputerClub 2021-2022\nDartCommunityCoordinator\nkucc.ku.edu.np/"
+          }
+        },
+        {
+          "score": 0.14638495445251465,
+          "meta": {
+            "file": "Gaurav_Rizal_resume.pdf",
+            "text": "riencedinbuildingscalableapplicationsandintegratingMLsolutionsintoproductionsystems. Motivatedto\npursuegraduateresearchinmachinelearning,computervision,naturallanguageprocessing,andmultimodal\nsystems. Education\nKathmanduUniversity,BachelorofEngineering: ComputerEngineering Aug2018\u2013May2023\n\u2022 CGPA:3.57/4.0\n\u2022 Coursework: MachineLearning,ArtificialIntelligence,StatisticsandProbability,DataStructures&Algorithms,\nDigitalSignalProcessing,SoftwareEngineering,AdvancedCalculus,LinearAlgebra,C,C++\nResearch Experience\nMultilabelClassificationofImagesusingMobileNetV2 Feb2022\u2013May2022\nActiveLearningLab,KathmanduUniversity\ngithub.com/physicistgaurav/Fruitstagging\n\u2022 ImplementedMobileNetV2withpre-trainedImageNetweights,achieving95%accuracyonthetestdataset\n\u2022 ConvertedthemodeltoTensorFlowLite(TFLite)fordeploymentinaFluttermobileapp,enablingobject\nrecognitionviacamera,photo,orURL\n\u2022 IntegratedwithFirestoretoprovidedetailed,real-timeinformationondetectedobjects\nProfessional Experience\nFull-StackDeveloper,WebNep\u2013Urlabari,Morang Sept2025\u2013Present\n\u2022 Currentlydevelopingafull-stackgrocerymanagementsystemwithcustomerandadminplatforms,including\ninventory,sales,payments,andcreditmanagement,tailoredforawholesaleclient. Teacher,PashupatiAwasiyaMa. Vi\u2013Urlabari,Morang Feb2025\u2013Aug2025\n\u2022 TaughtComputerScienceandMathematicstostudentsofgrades9\u201312,fosteringanalyticalandproblem-solving\nskills."
+          }
+        }
+      ],
+      "search_time": 8.177757263183594e-05,
+      "gen_time": 8.306039571762085
+    },
+    "D_large_2400": {
+      "index_info": {
+        "type": "faiss",
+        "n_chunks": 3,
+        "embed_time": 1.0451064109802246,
+        "chunk_config": "2400 chars, 400 overlap"
+      },
+      "answer": "## Candidate Profile: Gaurav Rizal\n\n**Background:** Full-stack developer and aspiring AI researcher with Computer Engineering degree from Kathmandu University (CGPA: 3.57/4.0).\n\n**Professional Roles:**\n- **Full-Stack Developer** at WebNep (Sept 2025\u2013Present)\n- **Teacher** at Pashupati Awasiya Ma. Vi (Feb 2025\u2013Aug 2025) - taught Computer Science and Mathematics\n- **Software Developer** at RamailoTech (Sept 2023\u2013Jan 2025)\n- **React Native Developer** at E-Signature Pvt. Ltd. (July 2023-Oct 2023)\n- **Intern** at NepalCanCode (Apr 2023\u2013Jul 2023)\n\n**Key Projects:**\n- **ResumeRAG** - AI-powered resume analysis using Gemini 2.0 Flash + LlamaIndex\n- **City Discussion Dashboard** - Django+React dashboard with NewsAPI and Reddit integration\n- **Seq2Seq DE-EN Translator** - German-English translation model with PyTorch\n- **Latte-da POS System** - Hotel management system with React/React Native\n- **Multilabel Image Classification** - MobileNetV2 implementation achieving 95% accuracy\n- **Varenya Foundation** - Complete portfolio website development\n\n**Leadership:**\n- Acting IT Head at Leo Club of Kathmandu Himalayas Patan (2024-2025)\n- Dart Community Coordinator at Kathmandu University Computer Club (2021-2022)\n\n*Source: Gaurav_Rizal_resume.pdf*",
+      "hits": [
+        {
+          "score": 0.24678219854831696,
+          "meta": {
+            "file": "Gaurav_Rizal_resume.pdf",
+            "text": "Gaurav Rizal\nUrlabari,Nepal | gauravrijal03@gmail.com | (+977)9825339449 | gauravrizal.com.np\nlinkedin.com/in/gaurav-rizal | github.com/physicistgaurav\nProfile\nFull-stackdeveloperandaspiringAIresearcherwithhands-onexperienceinMachineLearning,ComputerVision,\nLLMs,andNLP.SkilledinPython,TensorFlow,PyTorch,OpenCV,andmodernwebframeworkssuchasReact. ExperiencedinbuildingscalableapplicationsandintegratingMLsolutionsintoproductionsystems. Motivatedto\npursuegraduateresearchinmachinelearning,computervision,naturallanguageprocessing,andmultimodal\nsystems. Education\nKathmanduUniversity,BachelorofEngineering: ComputerEngineering Aug2018\u2013May2023\n\u2022 CGPA:3.57/4.0\n\u2022 Coursework: MachineLearning,ArtificialIntelligence,StatisticsandProbability,DataStructures&Algorithms,\nDigitalSignalProcessing,SoftwareEngineering,AdvancedCalculus,LinearAlgebra,C,C++\nResearch Experience\nMultilabelClassificationofImagesusingMobileNetV2 Feb2022\u2013May2022\nActiveLearningLab,KathmanduUniversity\ngithub.com/physicistgaurav/Fruitstagging\n\u2022 ImplementedMobileNetV2withpre-trainedImageNetweights,achieving95%accuracyonthetestdataset\n\u2022 ConvertedthemodeltoTensorFlowLite(TFLite)fordeploymentinaFluttermobileapp,enablingobject\nrecognitionviacamera,photo,orURL\n\u2022 IntegratedwithFirestoretoprovidedetailed,real-timeinformationondetectedobjects\nProfessional Experience\nFull-StackDeveloper,WebNep\u2013Urlabari,Morang Sept2025\u2013Present\n\u2022 Currentlydevelopingafull-stackgrocerymanagementsystemwithcustomerandadminplatforms,including\ninventory,sales,payments,andcreditmanagement,tailoredforawholesaleclient. Teacher,PashupatiAwasiyaMa. Vi\u2013Urlabari,Morang Feb2025\u2013Aug2025\n\u2022 TaughtComputerScienceandMathematicstostudentsofgrades9\u201312,fosteringanalyticalandproblem-solving\nskills. \u2022 Designedengaginglessonplans,practicalassignments,andassessmentsalignedwiththenationalcurriculum. SoftwareDeveloper,RamailoTech\u2013Gwarko,Kathmandu Sept2023\u2013Jan2025\n\u2022 BuiltLLMandspeech-drivenapplicationsincludingavirtualassistantandanaward-winningCityDiscussion\nDashboardusingGPT-4o-miniandPhi-3Mini\n\u2022 EngineeredanOCRpipelineusingAWSTextract,enablingautomatedextractionofvehicledocumentfieldsand\nimprovingdataprocessingaccuracy. \u2022 LedAIdevelopmentfortheCo-HireappusingCVsummarizationandLinkedInvacancymatching. ReactNativeDeveloper,E-SignaturePvt."
+          }
+        },
+        {
+          "score": 0.22336728870868683,
+          "meta": {
+            "file": "Gaurav_Rizal_resume.pdf",
+            "text": "elPOSsystemwithweb(React)+mobile(ReactNative)frontendfortablereservations,orders,\nthermalprinting,sales,andcreditmanagement. \u2022 Toolsused: React,ReactNative,Node.js,Express,Prisma,TypeScript\nVarenyaFoundation varenyafoundation.org.np/\n\u2022 DevelopedanddeployedVarenyaFoundation\u2019scompleteportfoliowebsite,managingend-to-endprocessfrom\nclientrequirementsgatheringtohosting,whileproposingoptimizedsolutions. \u2022 ToolsUsed: ReactJS,Tailwind,Firebase,Vercel\nLeadership Community Involvement\nLeoClubofKathmanduHimalayasPatan 2024-2025\nActingITHead\nlckhp.org/\nKathmanduUniversityComputerClub 2021-2022\nDartCommunityCoordinator\nkucc.ku.edu.np/"
+          }
+        },
+        {
+          "score": 0.1841193437576294,
+          "meta": {
+            "file": "Gaurav_Rizal_resume.pdf",
+            "text": " Sept2023\u2013Jan2025\n\u2022 BuiltLLMandspeech-drivenapplicationsincludingavirtualassistantandanaward-winningCityDiscussion\nDashboardusingGPT-4o-miniandPhi-3Mini\n\u2022 EngineeredanOCRpipelineusingAWSTextract,enablingautomatedextractionofvehicledocumentfieldsand\nimprovingdataprocessingaccuracy. \u2022 LedAIdevelopmentfortheCo-HireappusingCVsummarizationandLinkedInvacancymatching. ReactNativeDeveloper,E-SignaturePvt. Ltd. \u2013Kalopul,Kathmandu July2023-Oct. 2023\n\u2022 ContributedtoMengedegna,abusticketingmobileapplicationfeaturingmulti-ticketbooking,securepayment\nintegration,andvouchercodefunctionality\n\u2022 ResponsibleforcompletereleasecyclefrominternaltestingtoGooglePlayStoredeploymentof\u2019Mengedegna\u2019. Intern,NepalCanCode\u2013Tinkune,Kathmandu Apr2023\u2013Jul2023\n\u2022 DevelopedReactNativefrontendforBayuPayuERP\u2019s3majormodules(E-learning,ExpenseTracker,Ticketing)\nincludingUIimplementationandAPIintegration. Skills\nAI&MachineLearning: PyTorch,TensorFlow,OpenCV,LlamaIndex,HuggingFace,OpenAIAPIs,Scikit-learn,\nNumpy,Pandas,Seaborn,NLTK,Spacy\nProgramming: Python,JavaScript,TypeScript,Node.js,React.js,Next.js,Django\nCloud&Devops: AWS,Cloudfare,Firebase,Docker,CI/CD\nMiscellaneous: Redis,SQL,RESTAPIs,Monorepo,AgileDevelopment,TDD\nSoftSkills: Adaptability,Communication,AnalyticalThinking,Cross-CulturalCollaboration\nLanguages: English(Fluent),Nepali(Native),Hindi(Fluent)\nProjects\nResumeRAG github.com/Agentic-rag\n\u2022 AI-poweredresumeanalysisassistantusingGemini2.0Flash+LlamaIndexwithmulti-stepreasoningforskill\nextraction,candidatecomparison,andsummarization. \u2022 Toolsused: LlamaIndex,Gemini,Streamlit\nCityDiscussionDashbaord github.com/city-discussion\n\u2022 Developedafull-stackDjango+Reactdashboardtotrackcity-specificnewsandRedditdiscussions. Integrated\nNewsAPI,PRAW,andOpenRouterforautomatedtopicextraction,sentimentanalysis,andsummarization. \u2022 Toolsused: Python,Django,React(Vite),NewsAPI,PRAW,OpenRouter(GPT-4o-mini,Phi-3Mini)\nSeq2SeqDE-ENTranslator github.com/de-en-seq2seq\n\u2022 German-EnglishtranslationmodelusingSeq2SeqarchitecturewithBahdanauattention. BuiltwithPyTorch,\nachievingmeaningfultranslationsonMulti30kdataset. \u2022 ToolsUsed: PyTorch,spaCy,Multi30kdataset\nLatte-daPOSSystem video-url\n\u2022 DevelopedhotelPOSsystemwithweb(React)+mobile(ReactNative)frontendfortablereservations,orders,\nthermalprinting,sales,andcreditmanagement. \u2022 Toolsused: React,ReactNative,Node.js,Express,Prisma,TypeScript\nVarenyaFoundation varenyafoundation.org.np/\n\u2022 DevelopedanddeployedVarenyaFoundation\u2019scompleteportfoliowebsite,managingend-to-endprocessfrom\nclientrequirementsgatheringtohosting,whileproposingoptimizedsolutions."
+          }
+        },
+        {
+          "score": -3.4028234663852886e+38,
+          "meta": {
+            "file": "Gaurav_Rizal_resume.pdf",
+            "text": "elPOSsystemwithweb(React)+mobile(ReactNative)frontendfortablereservations,orders,\nthermalprinting,sales,andcreditmanagement. \u2022 Toolsused: React,ReactNative,Node.js,Express,Prisma,TypeScript\nVarenyaFoundation varenyafoundation.org.np/\n\u2022 DevelopedanddeployedVarenyaFoundation\u2019scompleteportfoliowebsite,managingend-to-endprocessfrom\nclientrequirementsgatheringtohosting,whileproposingoptimizedsolutions. \u2022 ToolsUsed: ReactJS,Tailwind,Firebase,Vercel\nLeadership Community Involvement\nLeoClubofKathmanduHimalayasPatan 2024-2025\nActingITHead\nlckhp.org/\nKathmanduUniversityComputerClub 2021-2022\nDartCommunityCoordinator\nkucc.ku.edu.np/"
+          }
+        },
+        {
+          "score": -3.4028234663852886e+38,
+          "meta": {
+            "file": "Gaurav_Rizal_resume.pdf",
+            "text": "elPOSsystemwithweb(React)+mobile(ReactNative)frontendfortablereservations,orders,\nthermalprinting,sales,andcreditmanagement. \u2022 Toolsused: React,ReactNative,Node.js,Express,Prisma,TypeScript\nVarenyaFoundation varenyafoundation.org.np/\n\u2022 DevelopedanddeployedVarenyaFoundation\u2019scompleteportfoliowebsite,managingend-to-endprocessfrom\nclientrequirementsgatheringtohosting,whileproposingoptimizedsolutions. \u2022 ToolsUsed: ReactJS,Tailwind,Firebase,Vercel\nLeadership Community Involvement\nLeoClubofKathmanduHimalayasPatan 2024-2025\nActingITHead\nlckhp.org/\nKathmanduUniversityComputerClub 2021-2022\nDartCommunityCoordinator\nkucc.ku.edu.np/"
+          }
+        }
+      ],
+      "search_time": 7.462501525878906e-05,
+      "gen_time": 7.859886646270752
+    }
+  },
+  "claude_evaluation": {
+    "A_tiny_300": {
+      "accuracy": 6,
+      "relevance": 7,
+      "cost": 9,
+      "rationale": "Missing key employment roles (WebNep, RamailoTech, E-Signature), includes incorrect leadership positions as main roles, but captures some projects correctly. Fast generation time and good chunk efficiency."
+    },
+    "B_small_600": {
+      "accuracy": 8,
+      "relevance": 9,
+      "cost": 8,
+      "rationale": "Most comprehensive and accurate answer covering all major roles, education, and projects. Includes timeline information and specific achievements. Good balance of detail without over-description."
+    },
+    "C_medium_1200": {
+      "accuracy": 9,
+      "relevance": 9,
+      "cost": 6,
+      "rationale": "Very complete and accurate information including all roles with specific details and comprehensive project list. However, slower generation time (8.3s) impacts cost efficiency despite fewer chunks."
+    },
+    "D_large_2400": {
+      "accuracy": 8,
+      "relevance": 8,
+      "cost": 7,
+      "rationale": "Good accuracy and completeness with clear formatting. Covers all major roles and projects but with slightly slower performance and fewer chunks may miss some nuanced details from fragmented information."
+    }
+  },
+  "winner": "B_small_600"
+}
