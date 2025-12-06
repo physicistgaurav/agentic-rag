@@ -98,6 +98,6 @@ streamlit run rag_optimizer_app.py
 
 ## 🎬 Demo Video
 
-![Resume RAG Demo](assets/demo.gif)
+![Resume RAG Demo](assets/pipeline.gif)
 
-[Watch the demo video](assets/demo.mp4)
+[Watch the demo video](assets/pipeline.mp4)
